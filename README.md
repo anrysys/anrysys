@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hi, I'm Andriy
+# 👋 Hi, I'm Andrii
 
 ### 🚀 Software Architect | Full-Stack Developer | DevOps Engineer
 
