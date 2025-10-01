@@ -4,7 +4,7 @@
 
 ### 🚀 Software Architect | Full-Stack Developer | DevOps Engineer
 
-*Building scalable, high-performance solutions with 10+ years of technology expertise*
+*Building scalable, high-performance solutions with 25+ years of technology expertise*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anrysys/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:anrysys@gmail.com)
