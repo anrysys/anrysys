@@ -115,7 +115,7 @@ Domain Expertise:
 
 ## 📫 Let's Connect!
 
-I'm open to collaborating on innovative projects and challenging opportunities where I can leverage my experience as a **Senior Backend Architect**, **Full-Stack Developer**, or **DevOps Engineer**.
+I'm open to collaborating on innovative projects and challenging opportunities where I can leverage my experience as a **Software Architect **, **Full-Stack Developer**, or **DevOps Engineer**.
 
 💬 **Ask me about**: Microservices, Backend Architecture, Full-Stack Development, DevOps, SaaS Platforms
 
