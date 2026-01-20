@@ -4,7 +4,7 @@
 
 ### 🚀 Software Architect | Full-Stack Developer | DevOps Engineer
 
-*Building scalable, high-performance solutions with 25+ years of technology expertise*
+*Building scalable, high-performance solutions with 20+ years of technology expertise*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anrysys/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:admin@guardyn.app)
@@ -15,7 +15,7 @@
 
 ## 💼 About Me
 
-🎯 Technology professional with **10+ years** of experience in designing, developing, and deploying high-performance web applications
+🎯 Technology professional with **20+ years** of experience in designing, developing, and deploying high-performance web applications
 
 🏗️ Specialized in **B2C**, **ERP**, **CRM**, and complex **B2B SaaS platforms**, scalable **RESTful APIs**, and **microservices architecture**
 
