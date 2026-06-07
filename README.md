@@ -19,7 +19,9 @@
 
 🏗️ Specialized in **B2C**, **ERP**, **CRM**, and complex **B2B SaaS platforms**, scalable **RESTful APIs**, and **microservices architecture**
 
-🔐 Currently building **[Guardyn](https://github.com/guardyn/guardyn)** - a privacy-focused secure communication platform with E2EE messaging, voice/video calls, and military-grade cryptography
+🔐 Currently building:
+- **[UAPE](https://uape.dev)** - a sovereign business operating system executing signed WebAssembly component sandboxes, governed by declarative Contract Manifests and powered by an autopoietic AI self-evolution engine and a Polymorphic Data Continuum.
+- **[Guardyn](https://github.com/guardyn/guardyn)** - a privacy-focused secure communication platform with E2EE messaging, voice/video calls, and military-grade cryptography.
 
 🌟 Passionate about solving complex technical challenges and implementing innovative solutions
 
@@ -121,11 +123,31 @@
 
 ---
 
-## 🚀 Featured Project: Guardyn
+## 🚀 Featured Projects
 
+### 🌐 [UAPE](https://uape.dev)
+**Sovereign Business Operating System & WebAssembly Execution Engine**
+
+UAPE is a sovereign business operating system that executes signed WebAssembly component modules governed by declarative cryptographic Contract Manifests. It eliminates traditional SaaS sprawl and databases, combining a Polymorphic Data Continuum (supporting 12 database structures inside a single engine) and autopoietic AI code self-synthesis.
+
+#### Key Features:
+- 🧩 **WASM Sandbox Execution**: Memory-safe, microsecond-level execution of business logic components.
+- 📜 **Declarative Contract Manifests**: Cryptographically signed policy-driven workflow governance.
+- 🔀 **Polymorphic Data Continuum**: One store behaving dynamically as 12 database architectures (SQL, Doc, Graph, Vector, etc.).
+- 🔄 **Autopoietic Code Synthesis**: Self-evolving business logic where AI automatically adapts and compiles WASM modules.
+- 🛡️ **Cryptographic Sovereignty**: Every state mutation is SHA-256 hashed and signed with operator keys.
+
+#### Tech Stack:
+**Backend**: Rust, WebAssembly (WASM Components), Astro, Starlight  
+**Core Kernel**: Built on top of the battle-tested DAIMON core (daimon-os.com)  
+**Security**: Operator Key Signatures, SHA-256 state ledger, E2EE data isolation  
+
+---
+
+### 🔐 [Guardyn](https://github.com/guardyn/guardyn)
 **Privacy-focused secure communication platform** with military-grade cryptography
 
-### Key Features:
+#### Key Features:
 - 🔐 **E2EE Messaging**: X3DH + Double Ratchet (Signal Protocol)
 - 👥 **Secure Group Chat**: OpenMLS (IETF standard)
 - 📞 **E2EE Voice/Video**: WebRTC with SFrame encryption
@@ -134,7 +156,7 @@
 - 🦀 **Rust Backend**: Memory-safe microservices
 - 📱 **Cross-Platform**: Flutter clients for all platforms
 
-### Tech Stack:
+#### Tech Stack:
 **Backend**: Rust, gRPC, TiKV, ScyllaDB, NATS JetStream, Redis, MinIO  
 **Client**: Flutter, Dart, WebRTC, WebAssembly, Tauri  
 **Infra**: Kubernetes (k3d/k3s), Kustomize, Helm, Cilium, cert-manager  
@@ -154,6 +176,7 @@ Focused Expertise: 10+ years
 
 Key Technologies:
   - Rust / Memory Safety / Systems Programming: 2+ years
+  - WebAssembly / WASM Component Sandboxes: 2+ years
   - Flutter / Dart / Cross-Platform: 2+ years
   - Kubernetes / Cloud-Native Architecture: 10+ years
   - NestJS / Next.js / React: 5 years
@@ -170,6 +193,7 @@ Key Technologies:
   - TailwindCSS: 5 years
 
 Domain Expertise:
+  - Sovereign Operating Systems / Workflow Engines: 2+ years
   - Secure Communications / E2EE: 2+ years
   - SaaS: 10+ years
   - E-commerce / Marketplace: 10+ years
